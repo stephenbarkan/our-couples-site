@@ -1,10 +1,10 @@
 {
-  "name": "Site Template",
-  "url": "https://stephenbarkan.com",
+  "name": "Eugenia and Stephen Forever!",
+  "url": "https://eugeniaandstephenforever.com",
   "author": {
     "name": "Stephen Barkan",
     "email": "stephenbarkan@gmail.com",
-    "handle": "@maxpower",
+    "handle": "@stephen_barkan",
     "avatar": "/images/blog/author.jpg"
   },
   "images": {
@@ -15,7 +15,7 @@
   },
   "social_links": {
     "facebook": "https://www.facebook.com",
-    "twitter": "https://twitter.com/joe_dyer1",
+    "twitter": "https://twitter.com/stephen_barkan",
     "linkedin": "https://www.linkedin.com"
   }
 }

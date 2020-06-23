@@ -1,6 +1,9 @@
 const htmlmin = require("html-minifier");
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 module.exports = (eleventyConfig) => {
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
   // Add a readable date formatter filter to Nunjucks
   eleventyConfig.addFilter("dateDisplay", require("./filters/dates.js"));
 
@@ -42,6 +45,7 @@ module.exports = (eleventyConfig) => {
 
   // Layout aliases
   eleventyConfig.addLayoutAlias("default", "layouts/default.njk");
+  eleventyConfig.addLayoutAlias("interior", "layouts/interior.njk");
 
   // Include our static assets
   // eleventyConfig.addPassthroughCopy("css");

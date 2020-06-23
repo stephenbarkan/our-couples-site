@@ -5,11 +5,13 @@
 
 @import "partials/storage";
 @import "partials/grid";
-
+@import "partials/focus";
+@import "partials/fonts";
+@import "partials/recipe-markdown";
+@import "partials/utilities";
 
 // Import Tailwind components
 @tailwind components;
-
 
 /* purgecss end ignore */
 

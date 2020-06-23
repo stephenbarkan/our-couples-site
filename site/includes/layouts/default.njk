@@ -1,14 +1,12 @@
 <!doctype html>
-<html lang="en" class="h-full antialiased transition-colors bg-neutral ease-smooth" data-theme="light">
+<html lang="en">
 
     {% include "components/html-head.njk" %}
 
-    <body {% if body_class %} id="{{ body_class }}" {% endif %}
-      class="flex justify-center min-h-full font-sans leading-normal text-black text-default">
+    <body class="flex flex-col min-h-screen font-sans text-2xl antialiased leading-normal text-black bg-beige text-default"
+      style="background-image: url(/./images/noise.png)">
 
-        <div id="wrapper">
-            {{ content | safe }}
-        </div>
+        {{ content | safe }}
 
     </body>
 
