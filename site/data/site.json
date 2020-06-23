@@ -1,0 +1,21 @@
+{
+  "name": "Site Template",
+  "url": "https://stephenbarkan.com",
+  "author": {
+    "name": "Stephen Barkan",
+    "email": "stephenbarkan@gmail.com",
+    "handle": "@maxpower",
+    "avatar": "/images/blog/author.jpg"
+  },
+  "images": {
+    "logo": "/images/logo/logo.svg",
+    "favicon": "/images/meta/favicon.ico",
+    "twitter": "/images/meta/twitter.jpg",
+    "og": "/images/meta/og.jpg"
+  },
+  "social_links": {
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://twitter.com/joe_dyer1",
+    "linkedin": "https://www.linkedin.com"
+  }
+}
