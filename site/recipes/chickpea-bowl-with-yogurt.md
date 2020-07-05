@@ -2,7 +2,7 @@
 title: Warm Chickpea Bowls with Lemony Yogurt
 eleventyNavigation:
   key: chickpea-bowl-with-yogurt
-  parent: recipes
+
 sourcelink: https://www.bonappetit.com/recipe/warm-chickpea-bowls-with-lemony-yogurt
 imgcredit: Alex Lau
 source: Bon Appetit

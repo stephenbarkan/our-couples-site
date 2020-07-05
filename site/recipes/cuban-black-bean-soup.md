@@ -2,7 +2,7 @@
 title: Cuban Black Bean Soup
 eleventyNavigation:
   key: cuban-black-bean-soup
-  parent: recipes
+
 sourcelink: https://www.bonappetit.com/recipe/barley-and-kale-salad-with-golden-beets-and-feta
 imgcredit: Joe Lingeman
 source: The Kitchn

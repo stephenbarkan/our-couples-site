@@ -2,7 +2,7 @@
 title: Risotto with Mushrooms and Thyme
 eleventyNavigation:
   key: risotto-with-mushrooms-and-thyme
-  parent: recipes
+
 sourcelink: https://www.bonappetit.com/recipe/risotto-with-mushrooms-and-thyme
 imgcredit: Ted + Chelsea Cavanaugh
 source: Bon Appetit

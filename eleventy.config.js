@@ -3,6 +3,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+  eleventyConfig.setDataDeepMerge(true);
 
   // Add a readable date formatter filter to Nunjucks
   eleventyConfig.addFilter("dateDisplay", require("./filters/dates.js"));
@@ -42,6 +43,14 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addCollection("posts", (collection) => {
     return collection.getFilteredByTag("post").reverse();
   });
+
+  eleventyConfig.addCollection("recipe", (collection) =>
+    collection.getFilteredByTag("recipe").sort((b, a) => {
+      if (a.data.title > b.data.title) return -1;
+      else if (a.data.title < b.data.title) return 1;
+      else return 0;
+    })
+  );
 
   // Layout aliases
   eleventyConfig.addLayoutAlias("default", "layouts/default.njk");

@@ -2,7 +2,7 @@
 title: Barley, Kale, and Beet Salad
 eleventyNavigation:
   key: barley-kale-beet-salad
-  parent: recipes
+
 sourcelink: https://www.bonappetit.com/recipe/barley-and-kale-salad-with-golden-beets-and-feta
 imgcredit: Jeremy Liebman
 source: Bon Appetit

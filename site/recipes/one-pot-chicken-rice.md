@@ -2,7 +2,7 @@
 title: One Pot Chicken and Rice
 eleventyNavigation:
   key: one-pot-chicken-rice
-  parent: recipes
+
 sourcelink: https://www.bonappetit.com/recipe/barley-and-kale-salad-with-golden-beets-and-feta
 imgcredit: David Malosh
 source: Bon Appetit

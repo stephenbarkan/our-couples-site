@@ -2,7 +2,7 @@
 title: Pasta with Tomato Sauce
 eleventyNavigation:
   key: pasta-and-tomato-sauce
-  parent: recipes
+
 sourcelink: https://www.bonappetit.com/recipe/bucatini-with-butter-roasted-tomato-sauce
 imgcredit: Chelsie Craig
 source: Bon Appetit

@@ -2,7 +2,7 @@
 title: Broccoli Spoon Salad With Warm Vinaigrette
 eleventyNavigation:
   key: broccoli-salad
-  parent: recipes
+
 sourcelink: https://www.bonappetit.com/recipe/broccoli-and-date-salad
 imgcredit: Emma Fishman
 source: Bon Appetit

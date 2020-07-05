@@ -2,7 +2,7 @@
 title: Chocolate Chip Cookies
 eleventyNavigation:
   key: chocolate-chip-cookie
-  parent: recipes
+
 sourcelink: https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies
 imgcredit: Chelsie Craig
 source: Bon Appetit

@@ -1,4 +1,7 @@
 {
-	"layout": "layouts/recipe",
-	"tags": ["recipe"]
+  "layout": "layouts/recipe",
+  "tags": ["recipe"],
+  "eleventyNavigation": {
+    "parent": "recipes"
+  }
 }
