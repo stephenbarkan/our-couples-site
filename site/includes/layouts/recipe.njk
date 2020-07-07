@@ -50,7 +50,7 @@ layout: interior
 			<ul class="space-y-1">
 				{% for item in ingredients %}
 					<li
-					class="flex items-start py-2 space-x-4 text-lg cursor-pointer first:pt-0 last:pb-0"
+					class="flex items-start py-2 space-x-4 text-lg cursor-pointer group first:pt-0 last:pb-0"
 					x-data="{isChecked: false}"
 					@click="isChecked = !isChecked"
 				>
@@ -60,8 +60,8 @@ layout: interior
 							:class="{ 'bg-salmon' : isChecked === true, 'bg-yellow' : isChecked === false }"
 							>
 								<span
-							class="w-2 h-2 rounded-full"
-							:class="{ 'bg-black' : isChecked === true}"
+							class="w-2 h-2 rounded-full group-hover:bg-black"
+							:class="{ 'bg-black bg-opacity-100' : isChecked === true}"
 							></span>
 							</span>&#8203;</span>
 						<span :class="{ 'opacity-50' : isChecked === true}">{{

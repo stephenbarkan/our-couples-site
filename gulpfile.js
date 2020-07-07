@@ -222,7 +222,12 @@ const minifyCSSPreflight = (done) => {
  *
  * Always double check that everything is still working. If something isn't displaying correctly, it may be because you need to add it to the PurgeCSS whitelist.
  */
-exports.build = series(compileCSSPreflight, minifyCSSPreflight, minifyJS);
+exports.build = series(
+  compileCSSPreflight,
+  minifyCSSPreflight,
+  compileJS,
+  minifyJS
+);
 
 /**
  * [DEFAULT] task

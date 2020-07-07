@@ -75,6 +75,7 @@ module.exports = {
     textDecoration: ["hover", "focus", "group-hover"],
     padding: ["first", "last", "responsive"],
     rotate: ["hover", "group-hover"],
+    backgroundColor: ["hover", "group-hover"],
   },
   plugins: [],
 };
