@@ -199,14 +199,14 @@ const compileCSSPreflight = (done) => {
  * Minify CSS [PREFLIGHT]
  */
 const minifyCSSPreflight = (done) => {
-  return src(["./css/*.css", "!./css/*.min.css"])
+  return src(paths.css.dest + "main.css")
     .pipe(cleanCSS())
     .pipe(
       rename({
         suffix: ".min",
       })
     )
-    .pipe(dest("./css"))
+    .pipe(dest(paths.css.dest))
     .pipe(
       notify({
         message: "Minify CSS [PREFLIGHT] Success",
@@ -223,6 +223,7 @@ const minifyCSSPreflight = (done) => {
  * Always double check that everything is still working. If something isn't displaying correctly, it may be because you need to add it to the PurgeCSS whitelist.
  */
 exports.build = series(
+  compileCSS,
   compileCSSPreflight,
   minifyCSSPreflight,
   compileJS,
