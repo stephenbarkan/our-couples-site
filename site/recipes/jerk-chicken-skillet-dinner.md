@@ -1,7 +1,7 @@
 ---
 title: Jerk Chicken Skillet Dinner
 eleventyNavigation:
-  key: jerk-chicken
+  key: jerk-chicken-skillet-dinner
 
 sourcelink: https://www.thekitchn.com/jerk-chicken-jamaican-rice-and-peas-recipe-256069
 imgcredit: Joe Lingeman
