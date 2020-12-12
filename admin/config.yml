@@ -1,0 +1,23 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: "images/recipes"
+
+collections:
+  - name: "organizers"
+    label: "Organizers"
+    label_singular: "Organizer"
+    folder: "site/organizers"
+    create: true
+    description: "Members of Activate:Chi to display on the homepage in the Organizer section."
+    fields:
+      - { name: "name", label: "Name", widget: "string" }
+      - { name: "job", label: "Job", widget: "string" }
+      - {
+          name: "image",
+          label: "Image",
+          widget: "image",
+          allow_multiple: false,
+        }
+      - { name: "summary", label: "Summary", widget: "text" }

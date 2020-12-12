@@ -30,7 +30,7 @@
     "gulp-sass": "^4.1.0",
     "gulp-uglify": "^3.0.2",
     "html-minifier": "^4.0.0",
-    "tailwindcss": "^1.4.0"
+    "tailwindcss": "^1.9.6"
   },
   "dependencies": {
     "@11ty/eleventy-img": "^0.3.0",
