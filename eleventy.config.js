@@ -61,6 +61,7 @@ module.exports = (eleventyConfig) => {
   // eleventyConfig.addPassthroughCopy("javascript");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("webfonts");
+  eleventyConfig.addPassthroughCopy("admin");
 
   return {
     templateFormats: ["md", "njk"],
