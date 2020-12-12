@@ -5,19 +5,20 @@ backend:
 media_folder: "images/recipes"
 
 collections:
-  - name: "organizers"
-    label: "Organizers"
-    label_singular: "Organizer"
-    folder: "site/organizers"
+  - name: "recipes"
+    label: "Recipes"
+    label_singular: "Recipe"
+    folder: "site/recipes"
     create: true
-    description: "Members of Activate:Chi to display on the homepage in the Organizer section."
     fields:
-      - { name: "name", label: "Name", widget: "string" }
-      - { name: "job", label: "Job", widget: "string" }
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "imgcredit", label: "Photo Credit", widget: "string" }
+      - { name: "source", label: "Recipe Source", widget: "string" }
+      - { name: "sourcelink", label: "Source URL", widget: "string" }
       - {
           name: "image",
           label: "Image",
           widget: "image",
           allow_multiple: false,
         }
-      - { name: "summary", label: "Summary", widget: "text" }
+      - { name: "steps", label: "Steps", widget: "markdown" }
