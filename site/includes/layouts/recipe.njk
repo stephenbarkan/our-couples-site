@@ -32,7 +32,7 @@ layout: interior
 		<div class="relative w-full overflow-hidden pb-3/5">
 			<img
 				class="absolute inset-0 block object-cover w-full h-full"
-				src="/./images/recipes/{{ eleventyNavigation.key }}.jpg"
+				src="{{ image }}"
 				alt=""
 			/>
 		</div>
@@ -78,7 +78,7 @@ layout: interior
 			Steps
 		</h2>
 		<div class="pt-8 recipe-markdown">
-			{{ content | safe }}
+			{{ steps | safe }}
 		</div>
 	</article>
 </main>

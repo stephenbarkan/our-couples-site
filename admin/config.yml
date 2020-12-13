@@ -22,4 +22,5 @@ collections:
           allow_multiple: false,
         }
       - { name: "ingredients", label: "Ingredients", widget: "list" }
-      - { name: "steps", label: "Steps", widget: "markdown" }
+      - { name: "body", label: "Steps", widget: "markdown" }
+      - { name: "searchterms", label: "Search Terms", widget: "list" }
