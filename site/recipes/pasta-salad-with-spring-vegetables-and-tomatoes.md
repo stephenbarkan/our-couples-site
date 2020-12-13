@@ -1,20 +1,8 @@
 ---
 title: Pasta Salad with Spring Vegetables and Tomatoes
-eleventyNavigation:
-  key: pasta-salad-with-spring-vegetables-and-tomatoes
-
-sourcelink: https://www.bonappetit.com/recipe/pasta-salad-with-spring-vegetables-and-tomatoes
 imgcredit: Alex Lau
 source: Bon Appetit
-searchterms:
-  - pasta
-  - salad
-  - sugar snap peas
-  - tomatoes
-  - summer
-  - basil
-  - mint
-
+sourcelink: https://www.bonappetit.com/recipe/pasta-salad-with-spring-vegetables-and-tomatoes
 ingredients:
   - 9 garlic cloves, crushed
   - 3 sprigs thyme
@@ -37,6 +25,17 @@ ingredients:
   - 2 cups thinly sliced mint, divided
   - Freshly ground black pepper
   - Olive oil (for drizzling)
+eleventyNavigation:
+  key: pasta-salad-with-spring-vegetables-and-tomatoes
+image: /images/recipes/pasta-salad-with-spring-vegetables-and-tomatoes.jpg
+searchterms:
+  - pasta
+  - salad
+  - sugar snap peas
+  - tomatoes
+  - summer
+  - basil
+  - mint
 ---
 
 1. Preheat oven to 325°.
