@@ -1,19 +1,18 @@
 ---
 title: Weed Butter
-eleventyNavigation:
-  key: weed-butter
-
-sourcelink: https://www.bonappetit.com/story/a-beginners-guide-to-making-weed-butter
 imgcredit: Alex Lau
 source: Bon Appetit
-searchterms:
-  - weed
-  - butter
-
+sourcelink: https://www.bonappetit.com/story/a-beginners-guide-to-making-weed-butter
 ingredients:
   - ½ ounce of weed
   - 1½ cup water
   - 8 ounces melted butter
+eleventyNavigation:
+  key: weed-butter
+image: /images/recipes/weed-butter.jpg
+searchterms:
+  - weed
+  - butter
 ---
 
 1. Preheat the oven to 220° F.
