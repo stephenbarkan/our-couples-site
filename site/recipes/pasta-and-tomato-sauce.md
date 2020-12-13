@@ -1,17 +1,8 @@
 ---
 title: Pasta with Tomato Sauce
-eleventyNavigation:
-  key: pasta-and-tomato-sauce
-
-sourcelink: https://www.bonappetit.com/recipe/bucatini-with-butter-roasted-tomato-sauce
 imgcredit: Chelsie Craig
 source: Bon Appetit
-searchterms:
-  - dinner
-  - pasta
-  - tomato
-  - sauce
-
+sourcelink: https://www.bonappetit.com/recipe/bucatini-with-butter-roasted-tomato-sauce
 ingredients:
   - 8 garlic cloves
   - ¼ cup (½ stick) unsalted butter
@@ -22,6 +13,14 @@ ingredients:
   - Freshly ground black pepper
   - 12 ounces bucatini or spaghetti
   - Finely grated Parmesan (for serving)
+eleventyNavigation:
+  key: pasta-and-tomato-sauce
+image: /images/recipes/pasta-and-tomato-sauce.jpg
+searchterms:
+  - dinner
+  - pasta
+  - tomato
+  - sauce
 ---
 
 1. Preheat oven to 425°.
