@@ -2,6 +2,7 @@
   "layout": "layouts/recipe",
   "tags": ["recipe"],
   "eleventyNavigation": {
-    "parent": "recipes"
+    "parent": "recipes",
+    "key": "{{ recipe.data.title | slugify }}"
   }
 }
