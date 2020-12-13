@@ -1,18 +1,8 @@
 ---
 title: Crispy Rice Bowl with Spring Vegetables
-eleventyNavigation:
-  key: crispy-rice-bowl-with-spring-vegetables
-
-sourcelink: https://www.bonappetit.com/recipe/crispy-rice-bowl-with-spring-vegetables
 imgcredit: Sarah Jampel
 source: Bon Appetit
-searchterms:
-  - korean
-  - rice
-  - egg
-  - zucchini
-  - radish
-
+sourcelink: https://www.bonappetit.com/recipe/crispy-rice-bowl-with-spring-vegetables
 ingredients:
   - 8 oz. snow peas or sugar snap peas
   - 2 zucchini
@@ -27,8 +17,18 @@ ingredients:
   - 2 tsp. honey
   - 1 cup fresh (or frozen) peas
   - 4 large eggs
-  - 1 cup pea shoots (tendrils), bean sprouts, watercress, or baby arugula (optional)
+  - 1 cup pea shoots (tendrils), bean sprouts, watercress, or baby arugula
+    (optional)
   - Radish and/or carrot pickles (optional)
+eleventyNavigation:
+  key: crispy-rice-bowl-with-spring-vegetables
+image: /images/recipes/crispy-rice-bowl-with-spring-vegetables.jpg
+searchterms:
+  - korean
+  - rice
+  - egg
+  - zucchini
+  - radish
 ---
 
 1. Thinly slice 2 **zucchinis** and place in a small bowl. Season with a fat pinch of **kosher salt**, then massage zucchinis with your hands, gently at first, then more aggressively as you go, just to soften. Pour off any excess liquid, then add a splash of **unseasoned rice vinegar**. Taste and season with more salt and vinegar if needed. (You can also add a pinch of sugar or a bit of **honey** to taste.) Set aside.
