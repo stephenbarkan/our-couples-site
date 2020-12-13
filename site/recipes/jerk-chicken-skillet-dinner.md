@@ -1,17 +1,8 @@
 ---
 title: Jerk Chicken Skillet Dinner
-eleventyNavigation:
-  key: jerk-chicken-skillet-dinner
-
-sourcelink: https://www.thekitchn.com/jerk-chicken-jamaican-rice-and-peas-recipe-256069
 imgcredit: Joe Lingeman
 source: The Kitchn
-searchterms:
-  - chicken
-  - dinner
-  - rice
-  - jerk
-
+sourcelink: https://www.thekitchn.com/jerk-chicken-jamaican-rice-and-peas-recipe-256069
 ingredients:
   - 2 pounds bone-in, skin-on chicken thighs
   - 1 tablespoon store-bought wet jerk seasoning, such as Grace
@@ -26,6 +17,14 @@ ingredients:
   - 1½ cup low-sodium chicken broth
   - 1 bay leaf
   - 2 teaspoons distilled white vinegar
+eleventyNavigation:
+  key: jerk-chicken-skillet-dinner
+image: /images/recipes/jerk-chicken-skillet-dinner.jpg
+searchterms:
+  - chicken
+  - dinner
+  - rice
+  - jerk
 ---
 
 1. Arrange a rack in the middle of the oven and heat to 350°F.
