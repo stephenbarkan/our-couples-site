@@ -1,16 +1,8 @@
 ---
 title: Black Pepper Tofu and Asparagus
-eleventyNavigation:
-  key: black-pepper-tofu-and-asparagus
-
-sourcelink: https://www.bonappetit.com/recipe/black-pepper-tofu-and-asparagus
 imgcredit: Emma Fishman
 source: Bon Appetit
-searchterms:
-  - tofu
-  - asparagus
-  - rice
-
+sourcelink: https://www.bonappetit.com/recipe/black-pepper-tofu-and-asparagus
 ingredients:
   - 1 package firm or extra-firm tofu, drained
   - 1 Tbsp. black peppercorns
@@ -24,6 +16,13 @@ ingredients:
   - 1 Tbsp. sugar
   - 1 tsp. unseasoned rice vinegar
   - Cooked white or brown rice (for serving)
+eleventyNavigation:
+  key: black-pepper-tofu-and-asparagus
+image: /images/recipes/black-pepper-tofu-and-asparagus.jpg
+searchterms:
+  - tofu
+  - asparagus
+  - rice
 ---
 
 1. Wrap **tofu** in a clean kitchen towel and place in a shallow baking dish or on a rimmed baking sheet. Weigh down with a heavy object. Let sit at least 15 minutes and up to 1 hour.
