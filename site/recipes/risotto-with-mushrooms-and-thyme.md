@@ -1,17 +1,8 @@
 ---
 title: Risotto with Mushrooms and Thyme
-eleventyNavigation:
-  key: risotto-with-mushrooms-and-thyme
-
-sourcelink: https://www.bonappetit.com/recipe/risotto-with-mushrooms-and-thyme
 imgcredit: Ted + Chelsea Cavanaugh
 source: Bon Appetit
-searchterms:
-  - fancy
-  - rice
-  - risotto
-  - mushrooms
-
+sourcelink: https://www.bonappetit.com/recipe/risotto-with-mushrooms-and-thyme
 ingredients:
   - 1 Tbsp. kosher salt, plus more
   - 6 Tbsp. extra-virgin olive oil
@@ -21,7 +12,8 @@ ingredients:
   - 5 Tbsp. unsalted butter, cut into pieces
   - 2 oz. Parmesan, finely grated
   - ¼ cup extra-virgin olive oil
-  - 1 lb. mushrooms (such as shiitake, crimini, or maitake), trimmed, caps torn into 2" pieces
+  - 1 lb. mushrooms (such as shiitake, crimini, or maitake), trimmed, caps torn
+    into 2" pieces
   - Kosher salt
   - Freshly ground pepper
   - 5 sprigs thyme
@@ -29,6 +21,14 @@ ingredients:
   - 2 Tbsp. unsalted butter
   - 2 Tbsp. white wine vinegar or fresh lemon juice
   - 1 oz. Parmesan, finely grated
+eleventyNavigation:
+  key: risotto-with-mushrooms-and-thyme
+image: /images/recipes/risotto-with-mushrooms-and-thyme.jpg
+searchterms:
+  - fancy
+  - rice
+  - risotto
+  - mushrooms
 ---
 
 1. Combine 1 Tbsp. salt and 10 cups water in a medium pot. Bring to a boil, then reduce heat to medium to maintain a bare simmer.
