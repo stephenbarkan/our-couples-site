@@ -1,18 +1,8 @@
 ---
 title: Broccoli Spoon Salad With Warm Vinaigrette
-eleventyNavigation:
-  key: broccoli-salad
-
-sourcelink: https://www.bonappetit.com/recipe/broccoli-and-date-salad
 imgcredit: Emma Fishman
 source: Bon Appetit
-searchterms:
-  - salad
-  - broccoli
-  - side
-  - nuts
-  - raw
-
+sourcelink: https://www.bonappetit.com/recipe/broccoli-and-date-salad
 ingredients:
   - 6 Tbsp. oil
   - 2 tsp. garam masala
@@ -28,6 +18,15 @@ ingredients:
   - 6 cups finely chopped broccoli florets and peeled stems (from about 1 bunch)
   - 1 cup finely chopped cilantro
   - ⅓ cup finely chopped pitted dates or raisins
+eleventyNavigation:
+  key: broccoli-salad
+image: /images/recipes/broccoli-salad.jpg
+searchterms:
+  - salad
+  - broccoli
+  - side
+  - nuts
+  - raw
 ---
 
 1. Heat **oil**, **garam masala**, and **garlic** in a small saucepan over medium-high until fragrant, about 2 minutes.
