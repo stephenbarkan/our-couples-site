@@ -1,25 +1,15 @@
 ---
 title: Warm Chickpea Bowls with Lemony Yogurt
-eleventyNavigation:
-  key: chickpea-bowl-with-yogurt
-
-sourcelink: https://www.bonappetit.com/recipe/warm-chickpea-bowls-with-lemony-yogurt
 imgcredit: Alex Lau
 source: Bon Appetit
-searchterms:
-  - chickpea
-  - dinner
-  - yogurt
-  - greek
-  - fennel
-  - lunch
-
+sourcelink: https://www.bonappetit.com/recipe/warm-chickpea-bowls-with-lemony-yogurt
 ingredients:
   - 1 garlic clove, finely grated
   - 1½ tsp. ground coriander
   - 1½ tsp. ground cumin
   - 3 Tbsp. extra-virgin olive oil, plus more for drizzling
-  - ½ medium head of cauliflower (about ¾ lb.), broken into large florets, sliced ¼" thick
+  - ½ medium head of cauliflower (about ¾ lb.), broken into large florets,
+    sliced ¼" thick
   - 1 15-oz. can chickpeas, rinsed
   - Kosher salt, freshly ground pepper
   - ¾ cup whole-milk Greek yogurt
@@ -29,6 +19,16 @@ ingredients:
   - 1 cup very coarsely chopped parsley
   - 1 Tbsp. toasted sesame seeds
   - slices of toast
+eleventyNavigation:
+  key: chickpea-bowl-with-yogurt
+image: /images/recipes/chickpea-bowl-with-yogurt.jpg
+searchterms:
+  - chickpea
+  - dinner
+  - yogurt
+  - greek
+  - fennel
+  - lunch
 ---
 
 1. Preheat oven to 400°.
