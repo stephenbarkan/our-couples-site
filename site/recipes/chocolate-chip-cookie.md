@@ -1,17 +1,8 @@
 ---
 title: Chocolate Chip Cookies
-eleventyNavigation:
-  key: chocolate-chip-cookie
-
-sourcelink: https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies
 imgcredit: Chelsie Craig
 source: Bon Appetit
-searchterms:
-  - cookies
-  - dessert
-  - chocolate
-  - baking
-
+sourcelink: https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies
 ingredients:
   - 1½ cups all-purpose flour
   - ¾ tsp. Morton kosher salt
@@ -23,6 +14,14 @@ ingredients:
   - 2 large egg yolks
   - 2 tsp. vanilla extract
   - 6 oz. semisweet chocolate chips
+eleventyNavigation:
+  key: chocolate-chip-cookie
+image: /images/recipes/chocolate-chip-cookie.jpg
+searchterms:
+  - cookies
+  - dessert
+  - chocolate
+  - baking
 ---
 
 1. Place racks in upper and lower thirds of oven; preheat to 375°.
