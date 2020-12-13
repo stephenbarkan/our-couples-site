@@ -1,19 +1,8 @@
 ---
 title: Grilled Cheese with Roasted Carrots and Pesto
-eleventyNavigation:
-  key: grilled-cheese-with-roasted-carrots-and-carrot-green-pesto
-
-sourcelink: https://happyolks.com/grilled-cheese/
 imgcredit: Shaun Boyte
 source: Happy Yolks
-searchterms:
-  - carrots
-  - grilled cheese
-  - sandwich
-  - pesto
-  - carrot greens
-  - cheese
-
+sourcelink: https://happyolks.com/grilled-cheese/
 ingredients:
   - 1 bunch farmers carrots, greens attached
   - ½ – ¾ cup shaved asiago
@@ -23,6 +12,16 @@ ingredients:
   - salt/pepper to taste
   - 4-6 ½″ slices of sourdough
   - butter for the pan/bread
+eleventyNavigation:
+  key: grilled-cheese-with-roasted-carrots-and-carrot-green-pesto
+image: /images/recipes/grilled-cheese-with-roasted-carrots-and-carrot-green-pesto.jpg
+searchterms:
+  - carrots
+  - grilled cheese
+  - sandwich
+  - pesto
+  - carrot greens
+  - cheese
 ---
 
 1. Preheat the oven for 450º.
