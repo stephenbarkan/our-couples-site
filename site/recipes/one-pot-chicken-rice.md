@@ -1,18 +1,8 @@
 ---
 title: One Pot Chicken and Rice
-eleventyNavigation:
-  key: one-pot-chicken-rice
-
-sourcelink: https://www.bonappetit.com/recipe/barley-and-kale-salad-with-golden-beets-and-feta
 imgcredit: David Malosh
 source: Bon Appetit
-searchterms:
-  - rice
-  - chicken
-  - peanut sauce
-  - cilantro
-  - cucumber
-
+sourcelink: https://www.bonappetit.com/recipe/barley-and-kale-salad-with-golden-beets-and-feta
 ingredients:
   - 6 small skin-on, bone-in chicken thighs (about 3 lb.)
   - ¾ tsp. kosher salt, plus more
@@ -31,6 +21,15 @@ ingredients:
   - 1½ tsp. honey
   - 1 English hothouse cucumber, halved lengthwise, thinly sliced on a diagonal
   - 1 cup cilantro leaves with tender stems
+eleventyNavigation:
+  key: one-pot-chicken-rice
+image: /images/recipes/one-pot-chicken-rice.jpg
+searchterms:
+  - rice
+  - chicken
+  - peanut sauce
+  - cilantro
+  - cucumber
 ---
 
 1. Pat **chicken** dry and season all over with **salt**. Arrange, skin side down, in a cold, dry medium Dutch oven and set over medium heat. Cook, undisturbed, until skin is golden brown and crisp and easily releases from pot, 8–10 minutes. Slide thighs around to different spots (this will ensure even browning) and continue to cook until deeply browned, 3–5 minutes longer. Transfer chicken to a plate. Let pot cool 2 minutes.
