@@ -1,11 +1,24 @@
 ---
 title: Barley, Kale, and Beet Salad
-eleventyNavigation:
-  key: barley-kale-beet-salad
-
-sourcelink: https://www.bonappetit.com/recipe/barley-and-kale-salad-with-golden-beets-and-feta
 imgcredit: Jeremy Liebman
 source: Bon Appetit
+sourcelink: https://www.bonappetit.com/recipe/barley-and-kale-salad-with-golden-beets-and-feta
+ingredients:
+  - ¼ cup plus 2 Tbsp. extra-virgin olive oil; more for drizzling
+  - 2 tablespoons white wine vinegar
+  - 2 tablespoons (packed) light brown sugar
+  - ½ teaspoon finely grated orange zest
+  - Kosher salt, freshly ground pepper
+  - 1 bunch Tuscan kale, center ribs and stems removed, leaves cut into 1-inch
+    squares
+  - ¼ cup minced shallots
+  - 3 medium golden beets (about 1 bunch), trimmed
+  - 1¼ cups pearl barley
+  - 4 ounces feta, crumbled
+  - 2 teaspoons (or more) unseasoned rice vinegar
+eleventyNavigation:
+  key: barley-kale-beet-salad
+image: /images/recipes/barley-kale-beet-salad.jpg
 searchterms:
   - lunch
   - salad
@@ -13,19 +26,6 @@ searchterms:
   - beet
   - feta
   - barley
-
-ingredients:
-  - ¼ cup plus 2 Tbsp. extra-virgin olive oil; more for drizzling
-  - 2 tablespoons white wine vinegar
-  - 2 tablespoons (packed) light brown sugar
-  - ½ teaspoon finely grated orange zest
-  - Kosher salt, freshly ground pepper
-  - 1 bunch Tuscan kale, center ribs and stems removed, leaves cut into 1-inch squares
-  - ¼ cup minced shallots
-  - 3 medium golden beets (about 1 bunch), trimmed
-  - 1¼ cups pearl barley
-  - 4 ounces feta, crumbled
-  - 2 teaspoons (or more) unseasoned rice vinegar
 ---
 
 1. Whisk ¼ cup **oil**, **white wine vinegar**, and **sugar** in a large bowl to blend; season with **salt** and **pepper**.
