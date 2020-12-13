@@ -1,20 +1,8 @@
 ---
 title: Cuban Black Bean Soup
-eleventyNavigation:
-  key: cuban-black-bean-soup
-
-sourcelink: https://www.bonappetit.com/recipe/barley-and-kale-salad-with-golden-beets-and-feta
 imgcredit: Joe Lingeman
 source: The Kitchn
-searchterms:
-  - cilantro
-  - beans
-  - black
-  - stew
-  - rice
-  - pork
-  - sour cream
-
+sourcelink: https://www.bonappetit.com/recipe/barley-and-kale-salad-with-golden-beets-and-feta
 ingredients:
   - 1 pound dried black beans
   - 1 medium onion, finely chopped
@@ -27,6 +15,17 @@ ingredients:
   - ⅓ cup distilled white or apple cider vinegar
   - Cooked rice, for serving
   - Large bundle of cilantro
+eleventyNavigation:
+  key: cuban-black-bean-soup
+image: /images/recipes/cuban-black-bean-soup.jpg
+searchterms:
+  - cilantro
+  - beans
+  - black
+  - stew
+  - rice
+  - pork
+  - sour cream
 ---
 
 1. The night before cooking the soup, place the **beans** in a colander and rinse with cold running water. Pick out any rocks or beans that are broken or shriveled. Place the beans in a large Dutch oven or soup pot with a lid and cover with enough cold water so that it comes to one inch over the top of the beans. Soak overnight.
