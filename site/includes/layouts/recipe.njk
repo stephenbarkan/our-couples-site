@@ -27,7 +27,7 @@ layout: interior
 	</div>
 
 	<div class="flex justify-center w-full p-10 bg-white border-2 border-black border-opacity-75">
-		<div class="relative w-full overflow-hidden pb-3/5">
+		<div class="relative w-full overflow-hidden pb-1/2">
 			<img
 				class="absolute inset-0 block object-cover w-full h-full"
 				src="{{ image }}"
@@ -39,32 +39,32 @@ layout: interior
 
 <main class="grid recipe-info-grid">
 	<div class="relative">
-		<h2 class="pb-1 text-3xl border-b-2 border-black border-opacity-75">
+		<h2 class="flex justify-between pb-1 text-3xl border-b-2 border-black border-opacity-75">
 			Ingredients
+            <span>
+                    <span class="sr-only">
+                        <textarea class="text-sm" name="" id="ingredientcopier">
+                            {% for item in ingredients %}
+                                {{ item }}
+                            {% endfor %}
+                        </textarea>
+                    </span>
+                    <button class="text-lg underline" type="button" onclick="myFunction()">copy ingredients</button>
+            </span>
 		</h2>
 		<div class="sticky py-8 pr-5"
 		style="top: var(--headerHeight);"
 		>
 			<ul class="space-y-1">
 				{% for item in ingredients %}
-					<li
-					class="flex items-start py-2 space-x-4 text-lg cursor-pointer group first:pt-0 last:pb-0"
-					x-data="{isChecked: false}"
-					@click="isChecked = !isChecked"
-				>
+					<li class="flex items-start py-2 space-x-4 text-lg cursor-pointer group first:pt-0 last:pb-0"
+					x-data="{isChecked: false}" @click="isChecked = !isChecked">
 						<span class="relative flex items-center flex-shrink-0 w-6">
-							<span
-							class="flex items-center justify-center w-full h-6 border-2 border-black border-opacity-75 rounded-full"
-							:class="{ 'bg-salmon' : isChecked === true, 'bg-yellow' : isChecked === false }"
-							>
-								<span
-							class="w-2 h-2 rounded-full"
-							:class="{ 'bg-black bg-opacity-100' : isChecked === true}"
-							></span>
+							<span class="flex items-center justify-center w-full h-6 border-2 border-black border-opacity-75 rounded-full"
+							:class="{ 'bg-salmon' : isChecked === true, 'bg-yellow' : isChecked === false }">
+								<span class="w-2 h-2 rounded-full" :class="{ 'bg-black bg-opacity-100' : isChecked === true}"></span>
 							</span>&#8203;</span>
-						<span :class="{ 'opacity-50' : isChecked === true}">{{
-						item
-					}}</span>
+						<span :class="{ 'opacity-50' : isChecked === true}">{{ item }}</span>
 					</li>
 				{% endfor %}
 			</ul>
@@ -80,3 +80,17 @@ layout: interior
 		</div>
 	</article>
 </main>
+
+<script>
+function myFunction() {
+  /* Get the text field */
+  var copyText = document.getElementById("ingredientcopier");
+
+  /* Select the text field */
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+
+  /* Copy the text inside the text field */
+  document.execCommand("copy");
+}
+</script>

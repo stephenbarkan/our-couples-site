@@ -44,6 +44,8 @@ module.exports = {
 
     extend: {
       fontSize: {
+        // "4xl": "2.5rem",
+        "5xl": "3.5rem",
         "6xl": "4.5rem",
         "7xl": "5rem",
       },
@@ -52,7 +54,7 @@ module.exports = {
       },
       spacing: {
         half: ".125rem",
-        "3/5": "60%",
+        "1/2": "50%",
         72: "18rem",
       },
       rotate: {

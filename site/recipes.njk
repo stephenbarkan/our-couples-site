@@ -8,18 +8,18 @@ eleventyNavigation:
 {% from "components/_recipe-link.njk" import recipeLink %}
 
 <main>
-    <div>
+    <ul class="grid grid-cols-2 gap-x-6">
 
         {% for recipe in collections.recipe | sort() %}
 
             {% if recipe.data.title %}
-                <div>
+                <li>
                     {{ recipeLink(recipe.data.title, recipe.data.searchterms, recipe.data.image, recipe.url) }}
-                </div>
+                </li>
 
             {% endif %}
         {% endfor %}
-    </div>
+    </ul>
 </main>
 
 <script>
