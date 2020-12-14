@@ -10,7 +10,7 @@ layout: default
 	@scroll.window="atTop = (window.pageYOffset > 100) ? false : true">
 
 	<nav
-		class="container flex items-start justify-between transition-all duration-150 ease-out border-b-2 border-black border-opacity-0"
+		class="container flex items-center justify-between transition-all duration-150 ease-out border-b-2 border-black border-opacity-0"
 		:class="{'py-4 border-b-2 border-opacity-75' : !atTop, 'py-8': atTop}"
 		style="will-change: padding;"
 >
@@ -28,12 +28,12 @@ layout: default
 		class="font-light">
 				<span
 	 	class="inline-block leading-none transition-all duration-150 ease-out border-2 border-black border-opacity-75 bg-yellow"
-		:class="{'text-3xl px-4 py-2' : !atTop, 'text-5xl px-8 py-4': atTop}"
+		:class="{'text-3xl px-4 py-2' : !atTop, 'text-4xl px-6 py-3': atTop}"
 		style="will-change: font-size padding;"
 	 >Our</span>
 				<span
 	 	class="inline-block leading-none transition-all duration-150 ease-out border-2 border-black border-opacity-75 bg-salmon"
-		:class="{'text-3xl px-4 py-2' : !atTop, 'text-5xl px-8 py-4': atTop}"
+		:class="{'text-3xl px-4 py-2' : !atTop, 'text-4xl px-6 py-3': atTop}"
 		style="will-change: font-size padding;"
 	 >{{title}}!</span>
 			</h1>
